@@ -6,7 +6,6 @@ A console-based Rock-Paper-Scissors game written in C++ using fundamental progra
 * Custom Rounds: Allows the user to select between 1 to 10 rounds per game.
 * Dynamic Screen Colors: Changes the console background color to Green on Player Win, Red on Computer Win, and Yellow on a Draw.
 * Detailed Statistics: Displays comprehensive round summaries and an overall game results dashboard at the end.
-* Clean Code Architecture: Built without complex templates, external STLs, or OOP classes to maintain core foundational logic.
 
 ## Requirements and Compilation
 To run this game, you need a C++ compiler or an IDE like Visual Studio.
